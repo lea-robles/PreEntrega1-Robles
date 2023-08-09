@@ -1,0 +1,25 @@
+.navBar {
+    display: flex;
+    background-color: red;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+  }
+
+.buttons{
+  margin: 2px;
+}
+
+.headerAndCart{
+  background-color: rgb(31, 138, 79);
+  display: flex;
+  justify-content: space-between;
+}
+
+.navBar{
+  background-color: rgb(39, 97, 65) ;
+}
+
+.buttons{
+  background: none;
+  border-style: none;
+}
